@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(238, 238, 238)
+}
+.navbar-brand img {
+    width: 100px;
+    height: 30px;
+}
+.top-nav {
+    line-height: 1.85714286em;
+}
+.top-nav .btn-sm {
+    margin-top: 0.25em;
+    padding: 0.42rem 1.7rem;
+    font-size: 0.93rem;
+    line-height: 1.4;
+    border-radius: 0.2rem;
+    font-weight: bold;
+    color: white;
+}
+.navbar-dark {
+    background-color: black;
+}
+.top-nav li > button {
+    margin-right: 0.8em;
+    margin-top: 0.25em;
+}
+
+.top-nav li:hover {
+    transform: translate(0px, 0.2em)
+}
+.main-height {
+    margin-top: 10.5em;;
+}
+.p {
+    color: grey;
+    margin-top: 2em;
+    font-weight: bold;
+}
+.col-sm-12 h1 {
+    font-size: 3em;
+}
+.input-width {
+    width: 65em;
+    height: 8em;
+    background-color: white;
+    border-radius: 0.5em;
+}
+
+.input-width input {
+    margin: 3em 3em;
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    border-radius: 0.5em;
+}
+
+.input-group button {
+    margin-top: 3em;
+    margin-right: 4.6em;
+    width: 9em;
+    background-color: #5bc0be;
+}
+
+.main-a {
+    margin: 3em 0;
+    color: rgb(91, 192, 190);
+}
+.box{
+    height: 28em;
+    border: 1px solid rgb(182, 182, 182);
+}
+.box-pd{
+    padding: 2.5em;
+}
+.box-pd i{
+    position: relative;
+    left: 0.9em;
+}
+.box-pd a{
+    position: relative;
+    left: 6.3em;
+}
+.box-pd button{
+    position: relative;
+    width: 5.5em;
+    left: 5.5em;
+    top: 6em;
+}
+.col-sm-4{
+    position: relative;
+}
+.bg-3{
+    background-color: black;
+}
+.footer1{
+    height: 10em;
+}
+.footer1 a{
+    color: grey;
+}
+.footer1 i{
+    font-size: 1.3em;
+}
+.footer1 li{
+    display: inline-block;
+    margin-right: 1.5em;
+}
+.footer1 li button{
+    width: 7em;
+    height: 2em;
+    line-height: 1em;
+}
+.container-fluid{
+    background-color: black;
+}
+footer{
+    margin-top: 3em;
+}
+.row1{
+    line-height: 5em;
+}
+.row2 img{
+    width: 7em;
+    height: 2em;
+    position: relative;
+}
+.row2 ul{
+    padding-left: 0;
+}
+.row2 a{
+    font-size: 0.8em;
+}
